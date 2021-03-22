@@ -2,7 +2,8 @@
 SECD machine implemented with ocaml
 
 
-How does it work, you should manually change all the exp in secd c expression with the corrispetive given pattern
+How does it work?
+You should manually change all the exp in secd c expression with the corrispective given pattern
 
 apply-> Apply
 fun-> Fun
